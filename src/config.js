@@ -1,39 +1,30 @@
 // config.js
 module.exports = {
     github: {
-        username: 'arifszn', // Your GitHub org/user name. (Required)
+        username: 'Muhammad0Awais', // Your GitHub org/user name. (Required)
         sortBy: 'stars', // stars | updated
-        limit: 8, // How many projects to display.
+        limit: 3, // How many projects to display.
         exclude: {
             forks: false, // Forked projects will not be displayed if set to true.
             projects: ['laravel-ecommerce'] // These projects will not be displayed. example: ['my-project1', 'my-project2']
         }
     },
     social: {
-        linkedin: 'ariful-alam',
-        twitter: 'arif_swozon',
+        linkedin: 'ch-muhammad-awais-9b094380',
+        twitter: 'Awais_Ch_M',
         facebook: '',
         dribbble: '',
         behance: '',
         medium: '',
-        devto: 'arifszn',
-        website: 'https://arifszn.github.io',
+        devto: '',
+        website: 'https://muhammad0awais.github.io/awais.github.io/',
         phone: '',
-        email: 'arifulalamszn@gmail.com'
+        email: 'awaisrwp@yahoo.com'
     },
     skills: [
-        'PHP',
-        'Laravel',
-        'JavaScript',
-        'React.js',
-        'Node.js',
-        'MySQL',
+        'Python',
+        'Java',
         'Git',
-        'Docker',
-        'CSS',
-        'Antd',
-        'Tailwind',
-        'Bootstrap',
     ],
     experiences: [
         { 
